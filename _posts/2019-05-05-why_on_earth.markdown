@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "'Why On Earth?'"
-date:       2019-05-05 14:44:29 +0000
+title:      "Why On Earth?"
+date:       2019-05-05 10:44:30 -0400
 permalink:  why_on_earth
 ---
 
