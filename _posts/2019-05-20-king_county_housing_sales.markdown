@@ -1,12 +1,15 @@
 ---
 layout: post
 title:      "King County Housing Sales"
-date:       2019-05-21 00:57:43 +0000
+date:       2019-05-20 20:57:44 -0400
 permalink:  king_county_housing_sales
 ---
 
 
-** The original blog post is on the Medium platform. This is a straight copy and paste from my published Medium post to meet the course requirements **
+
+Original Posted on Medium: https://medium.com/@jericksen20/king-county-real-estate-14b58484798c
+
+
 
 A recent linear regression modeling project required a detailed exploration of a dataset containing housing sales data from King County, WA. The dataset housed multiple variables that included the sale price of the property, when the property was sold, and various other data describing the property’s attributes. Additionally, the dataset included geographic data as well as information on the immediate surrounding properties.
 
