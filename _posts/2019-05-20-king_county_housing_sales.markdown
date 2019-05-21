@@ -7,7 +7,7 @@ permalink:  king_county_housing_sales
 
 
 
-Original Posted on Medium: https://medium.com/@jericksen20/king-county-real-estate-14b58484798c
+Posted on Medium: https://medium.com/@jericksen20/king-county-real-estate-14b58484798c
 
 
 
